@@ -1,0 +1,19 @@
+body {
+    background-color:#95bae1;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#brainImg img {
+    width: 50%;
+}
+#brainImg {
+    display: flex;
+    justify-content: center;
+}
+div{
+    margin: 2rem;
+}
